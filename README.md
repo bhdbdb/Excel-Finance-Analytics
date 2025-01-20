@@ -1,39 +1,33 @@
-# Excel-Finance-Analytics
+# P&L Report for Atliq Hardwares
 
-Overview
+This project demonstrates the creation of a Profit and Loss (P&L) report for Atliq Hardwares using Excel. The project includes steps for data cleaning and analysis to generate a comprehensive report.
 
-This project focuses on understanding and analyzing Profit & Loss (P&L) statements using data modeling and analytics. It covers essential concepts, data integration, and the creation of detailed reports for yearly, monthly, and quarterly financial performance. The reports were created for Atliq Hardwares using Microsoft Excel.
+## Project Overview
 
-Key Features
+The main objectives of this project were:
+- To clean raw financial data.
+- To calculate key metrics for a P&L report.
+- To present the data in an easily understandable format.
 
-Understanding P&L
+## Features
 
-Fundamental concepts of Profit & Loss statements.
+- **Data Cleaning:** Removed inconsistencies, duplicates, and irrelevant entries.
+- **Analysis:** Computed revenue, expenses, gross profit, net profit, and profit margins.
+- **Visualization:** Added pivot tables and charts to summarize the data effectively.
 
-Functional Knowledge: Finance
+## Steps Performed
 
-Essential financial knowledge to support data analysis and reporting.
+1. **Data Cleaning:**
+   - Handled missing values.
+   - Corrected data formatting issues.
+   - Standardized column headers.
 
-Adding the Finance Data to the Data Model
+2. **Calculations:**
+   - Calculated revenue, cost of goods sold (COGS), and operating expenses.
+   - Derived gross and net profit margins.
 
-Integration of financial datasets into the data model.
+3. **Report Generation:**
+   - Created a P&L statement.
+   - Used Excel formulas and functions like `SUM`, `IF`, `VLOOKUP
 
-Finance Analytics: P&L by Year Report
 
-Development of annual P&L reports to visualize yearly performance.
-
-Fine-Tuning P&L By Year Report
-
-Enhancements and refinements for clarity and accuracy in yearly reports.
-
-Adding Months & Quarters in Data Model
-
-Extending the data model to include monthly and quarterly time dimensions.
-
-Finance Analytics: P&L by Months Report
-
-Creation of detailed monthly P&L reports.
-
-Fine-Tuning P&L By Month Report
-
-Optimizing monthly reports for better insights and usability.
